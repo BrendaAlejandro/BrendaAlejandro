@@ -1,10 +1,10 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="#">Brenda Luz Alejandro</a> 👋</h1>
 </div>
-<img src="https://ibb.co/p40nKby">
+<img src="https://i.ibb.co/p40nKby/tu-imagen.png">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCjXvCRIVC2aP73BcbSKJjaA?style=social)](https://www.youtube.com/@brendaluzalejandrobecerra2009)
-[![GitHub followers](https://img.shields.io/github/followers/YheremiRamos?style=social)](https://github.com/BrendaAlejandro)
+[![GitHub followers](https://img.shields.io/github/followers/BrendaAlejandro?style=social)](https://github.com/BrendaAlejandro)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/brenda-luz-alejandro-becerra-946a34208/)
 
 ## Sobre mí
