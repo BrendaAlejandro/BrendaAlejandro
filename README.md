@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/ubCFTxC.png">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCjXvCRIVC2aP73BcbSKJjaA?style=social)](https://www.youtube.com/@YheremiDevv?sub_confirmation=1)
-[![GitHub followers](https://img.shields.io/github/followers/YheremiRamos?style=social)](https://github.com/YheremiRamos)
+[![GitHub followers](https://img.shields.io/github/followers/YheremiRamos?style=social)](https://github.com/BrendaAlejandro)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/yheremi-fermin-ramos-quispe/)
 
 ## Sobre mí
