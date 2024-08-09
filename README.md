@@ -35,10 +35,10 @@
 - ![Bizagi](https://img.shields.io/badge/-Bizagi-1D4E89?style=flat&logo=bizagi&logoColor=white)
 - ![JasperSoft](https://img.shields.io/badge/-JasperSoft-0078D4?style=flat&logo=jaspersoft&logoColor=white)
 - ![Yed](https://img.shields.io/badge/-Yed-232F3E?style=flat&logo=yed&logoColor=white)
+- ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
 ### Aprendiendo
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-- ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 - ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 <br>
