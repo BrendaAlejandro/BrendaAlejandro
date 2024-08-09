@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="#">Brenda Alejandro</a> 👋</h1>
 </div>
-<img src="https://ibb.co/mcsngtz">
+<img src="https://i.ibb.co/1mVCjK2/Brenda-alejandro.png">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCjXvCRIVC2aP73BcbSKJjaA?style=social)](https://www.youtube.com/@brendaluzalejandrobecerra2009?sub_confirmation=1)
 [![GitHub followers](https://img.shields.io/github/followers/brendaalejandro?style=social)](https://github.com/brendaalejandro)
