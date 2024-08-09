@@ -9,7 +9,7 @@
 
 ## Sobre mí
 
-- ⭐ Estudiante de la carrera de Computación e Informática ⭐ 
+- ⭐ Estudiante de la carrera de Computación e Informática en el Instituto Cibertec, actualmente en el 6º ciclo ⭐ 
 - 📲 Full Stack Junior Dev
 - 🎥 Te enseño a programar en [YouTube](https://www.youtube.com/@brendaluzalejandrobecerra2009?sub_confirmation=1)
 - 🎓 Becada de Pronabec
@@ -51,4 +51,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brendaalejandro&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
