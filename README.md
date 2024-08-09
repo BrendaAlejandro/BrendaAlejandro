@@ -1,17 +1,17 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="#">Brenda Luz Alejandro</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="#">Brenda Alejandro</a> 👋</h1>
 </div>
-<img src="https://i.postimg.cc/xXKjx5tW/tu-imagen.png" alt="Imagen de Brenda Luz Alejandro" style="display: block; margin: auto; width: 70%; height: auto;">
+<img src="https://ibb.co/mcsngtz">
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCjXvCRIVC2aP73BcbSKJjaA?style=social)](https://www.youtube.com/@brendaluzalejandrobecerra2009)
-[![GitHub followers](https://img.shields.io/github/followers/BrendaAlejandro?style=social)](https://github.com/BrendaAlejandro)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCjXvCRIVC2aP73BcbSKJjaA?style=social)](https://www.youtube.com/@brendaluzalejandrobecerra2009?sub_confirmation=1)
+[![GitHub followers](https://img.shields.io/github/followers/brendaalejandro?style=social)](https://github.com/brendaalejandro)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/brenda-luz-alejandro-becerra-946a34208/)
 
 ## Sobre mí
 
-- ⭐ Estudiante de la carrera de Computación e Informática en Cibertec ⭐ 
+- ⭐ Estudiante de la carrera de Computación e Informática ⭐ 
 - 📲 Full Stack Junior Dev
-- 🎥 Te enseño a programar en [YouTube](https://www.youtube.com/@brendaluzalejandrobecerra2009)
+- 🎥 Te enseño a programar en [YouTube](https://www.youtube.com/@brendaluzalejandrobecerra2009?sub_confirmation=1)
 - 🎓 Becada de Pronabec
 
 <br>
@@ -46,8 +46,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/BrendaAlejandro">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BrendaAlejandro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BrendaAlejandro&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/brendaalejandro">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brendaalejandro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brendaalejandro&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
